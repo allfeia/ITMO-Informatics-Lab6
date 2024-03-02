@@ -1,1 +1,1 @@
-# ITMO-Informatics-Lab6
+### Работа в Latex
